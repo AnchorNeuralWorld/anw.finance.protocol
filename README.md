@@ -1,6 +1,6 @@
 # ANW Finance
 
-![ANW Finance](https://raw.githubusercontent.com/AnchorNeuralWorld/anw.finance.protocol/main/anw_finance_logo.png)
+![ANW Finance](https://raw.githubusercontent.com/AnchorNeuralWorld/anw.finance.protocol/main/anw_finance_logo.png?token=ARIFD6Y4XDCHNTBHCBSC64TBIGIU2)
 
 ANW Finance is a decentralized financial protocol that provides a multitude of services including: token swap for various popular digital currencies, automated market maker liquidity pools, liquidity token staking, and fixed income strategies through other popular DeFi protocols. ANW Finance introduces a new ERC20 ecosystem token "ANFI" to bring additional incentivisation to service participation.
 
