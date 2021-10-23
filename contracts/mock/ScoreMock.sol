@@ -18,6 +18,5 @@ contract ScoreMock {
          uint decimals 
     ) external pure returns (uint score) {
         score = Score.calculate(createTimestamp, startTimestamp, transactions, count, interval, decimals);
-        score = 0;
     }
 }
