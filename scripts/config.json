@@ -1,0 +1,78 @@
+{
+  "31337": {
+    "anw": "0x668eD30aAcC7C7c206aAF1327d733226416233E2",
+    "manager_role_lib": "0x50D75C1BC6a1cE35002C9f92D0AF4B3684aa6B74",
+    "governance_role_lib": "0xD2E8d9173584D4DaA5C8354a79eF75ceC2dfa228",
+    "treasury": "0xB5AE3e2883934457cb593793f034b401867e1372",
+    "WNATIVE": "0x56F7DC1Cc938d6d6575B68d70d381F9C28C8C7b7",
+    "pair_factory": "0x0b9825D065745D3D9E0C1917280249C485496bC7",
+    "router": "0x8b5F2C6C7ef486e5Ea15d2404342F36Ca8910a21",
+    "pool_factory": "0xD63259B15E88DFDC994A90104a2c7226CE3ECa69",
+    "anwfi": "0x13E07a1dC038B61cbDb1D501221Ec634cC4a7013",
+    "pairs": {
+      "anw_weth": "0x086dC46e7F3c507Ce81691Ffcd69dE4c6F543507",
+      "anwfi_weth": "0x392439fC908851b52bB7A3Dc23d3b26B331CE8Be",
+      "anwfi_anw": "0xC08c8f70053c38cdFB2225Ba072b39e94A25a56f"
+    },
+    "pools": {
+      "anwfi": {
+        "0": {
+          "stakeToken": "0x56F7DC1Cc938d6d6575B68d70d381F9C28C8C7b7",
+          "allocPoint": "100",
+          "lastRewardBlock": "13",
+          "accRewardPerShare": "0",
+          "bonusEndBlock": "13",
+          "startBlock": "13",
+          "minStakePeriod": "136500",
+          "bonusMultiplier": "1",
+          "rewardAmount": "0"
+        },
+        "1": {
+          "stakeToken": "0x668eD30aAcC7C7c206aAF1327d733226416233E2",
+          "allocPoint": "200",
+          "lastRewardBlock": "14",
+          "accRewardPerShare": "0",
+          "bonusEndBlock": "14",
+          "startBlock": "14",
+          "minStakePeriod": "136500",
+          "bonusMultiplier": "1",
+          "rewardAmount": "0"
+        },
+        "2": {
+          "stakeToken": "0x086dC46e7F3c507Ce81691Ffcd69dE4c6F543507",
+          "allocPoint": "50",
+          "lastRewardBlock": "15",
+          "accRewardPerShare": "0",
+          "bonusEndBlock": "15",
+          "startBlock": "15",
+          "minStakePeriod": "136500",
+          "bonusMultiplier": "1",
+          "rewardAmount": "0"
+        },
+        "3": {
+          "stakeToken": "0x392439fC908851b52bB7A3Dc23d3b26B331CE8Be",
+          "allocPoint": "50",
+          "lastRewardBlock": "16",
+          "accRewardPerShare": "0",
+          "bonusEndBlock": "16",
+          "startBlock": "16",
+          "minStakePeriod": "136500",
+          "bonusMultiplier": "1",
+          "rewardAmount": "0"
+        },
+        "4": {
+          "stakeToken": "0xC08c8f70053c38cdFB2225Ba072b39e94A25a56f",
+          "allocPoint": "50",
+          "lastRewardBlock": "17",
+          "accRewardPerShare": "0",
+          "bonusEndBlock": "17",
+          "startBlock": "17",
+          "minStakePeriod": "136500",
+          "bonusMultiplier": "1",
+          "rewardAmount": "0"
+        },
+        "address": "0x88880C7E2341147A16470Daf38daAf614f9fC827"
+      }
+    }
+  }
+}
